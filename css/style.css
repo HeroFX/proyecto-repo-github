@@ -1,3 +1,18 @@
 body{
-    background-color: cornflowerblue;
+    background-color: rgb(236, 238, 243);
+    font-family: Monospace;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: black solid .2px;
+    border-radius: 5px;
+}
+nav{
+    background-color: rgb(64, 205, 252);
+    padding: 10px;
+    position: center;
+
 }
